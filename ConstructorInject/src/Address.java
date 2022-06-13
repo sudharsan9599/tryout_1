@@ -3,6 +3,7 @@ public class Address {
 	private String city;
 	private String street;
 	int count=0;
+	///s
 	
 	
 	public Address(String city, String street) {
